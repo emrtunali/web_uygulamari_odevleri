@@ -1,0 +1,44 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+  }
+  
+  .row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  .col {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+  }
+  
+  h2 {
+    margin-bottom: 10px;
+  }
+  
+  i.fas.fa-home {
+    color: green;
+    text-shadow: 3px 2px black;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  
+  i.fab.fa-instagram {
+    color: purple;
+    text-shadow: 2px 3px 2px green;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  
+  i.fas.fa-upload {
+    color: blue;
+    text-shadow:2px 3px 5px red;
+    padding: 10px;
+    border-radius: 50%;
+  }
+  

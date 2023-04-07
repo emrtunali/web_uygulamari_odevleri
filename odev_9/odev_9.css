@@ -1,0 +1,15 @@
+.kutu{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+.a,.b,.c{
+    width: 20%;
+}
+hr{
+   border: 1px solid red;
+}
+.yazi{
+    background-color: red;
+    color: white;
+}
