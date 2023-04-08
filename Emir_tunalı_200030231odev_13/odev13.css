@@ -1,0 +1,63 @@
+@font-face {
+    font-family: Nickainley;
+    src: url(fonts/Nickainley-Normal.ttf);
+  }
+  @font-face {
+    font-family: Lenteras;
+    src: url(fonts/Lenteras.ttf);
+  }
+  @font-face {
+    font-family: Sunfice;
+    src: url(fonts/sunfice.otf);
+  }
+  @font-face {
+    font-family: SunDried;
+    src: url(fonts/SunDried.ttf);
+  }
+  .a,
+  .b,
+  .c,
+  .d,
+  .e {
+    font-size: 20px;
+  }
+  .a {
+    color: purple;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  .b {
+    color: rgb(255, 115, 138);
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .c {
+    color: orange;
+    font-family: Nickainley;
+    font-size: 30px;
+    text-decoration: underline;
+  }
+  .d {
+    color: rgb(255, 59, 59);
+    font-family: Nickainley;
+    font-size: 30px;
+    text-decoration: underline;
+  }
+  .e {
+    color: rgb(62, 105, 62);
+    font-family: Lenteras;
+    font-size: 50px;
+    text-decoration: underline red;
+  }
+  .f {
+    color: blue;
+    font-family: SunDried;
+    text-decoration: underline black;
+    font-size: 40px;
+  }
+  .g {
+    color: black;
+    font-family: sunfice;
+    text-decoration: underline;
+    font-size: 30px;
+  }
